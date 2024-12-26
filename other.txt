@@ -1,0 +1,2 @@
+This is a line with text 123 and symbols #$%.
+Another line with a decimal 3.14.
